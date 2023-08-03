@@ -14,6 +14,7 @@
 - Deleted null duplicate rows.
 - perform Feature engineering on datetime column to split into  better data fit for modeling.
 - Produced univariate visuals.
+- identify any outliers.
 
   ## Exploratoy Data Analysis
   - ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/454f0b52-6171-4506-b12c-dc61b3484910)
