@@ -16,7 +16,7 @@
 - Produced univariate visuals.
 - identify any outliers.
 
-  ## Exploratoy Data Analysis
+  ## Exploratory Data Analysis
   - ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/454f0b52-6171-4506-b12c-dc61b3484910)
   - the above plot relates a majority of the inverters maintaining and steady output of 7.25Kw on a montly total output with a few inverters indicating inefficiencies that COULD effect overall plant performance/generation and should be noted for maintnience or replacement.
  
