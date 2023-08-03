@@ -8,7 +8,14 @@
 ## Data Dictionary: ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/f71499ea-4367-411c-b476-bf07713ae709)
 
 ## Data Cleaning
-to prepare Data for exploratory Data Analysis, Data has been cleaned to ensure all Null/Duplicated values will not effect overall model performance
+### Task
+- Deleted unnecessary columns.
+- Deleted duplicate rows.
+- Identified and addressed missing values.
+- Identified and corrected inconsistencies in data for categorical values (i.e. Cat, cat, cats).
+- Produced univariate visuals for the target and all features.
+- Identified outliers.
+- Clearly commented all of your cleaning steps and described any decisions you made. 
 
   
 
