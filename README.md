@@ -18,8 +18,11 @@
 
   ## Exploratoy Data Analysis
   - ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/454f0b52-6171-4506-b12c-dc61b3484910)
+  - the above table relates
  
-  - 
+  - ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/dd584ea0-3008-4c54-bb05-d569c90e93c4)
+  - the above table relates that the peak production hours are undoubtably in the midle of the day, while the sun is at its highest point.
+
 
   
 
