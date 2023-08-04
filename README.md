@@ -25,7 +25,19 @@
   - the above table relates that the peak production hours are undoubtably in the midle of the day, while the sun is at its highest point.
 
 
+## Modeling
+
+ ###regression tree
+ 
+  ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/3f2eacd8-26e8-41bd-8efa-e4f383425581)
+
+  ###descision tree tuned with gridsearch
+
+  ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/e9be5bb8-b115-470a-9dc7-52fcd30adbd3)
+
   
+  
+
 
   
 
