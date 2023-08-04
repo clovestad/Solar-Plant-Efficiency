@@ -1,7 +1,7 @@
 # Solar plant Efficiency
 ## Colin Lovestad
 - Power production predictions to gauge duty cycle of plant components  to maintain peak efficiency.
-- This data has been gathered at two solar power plants in India over a 34 day period. The power generation dataset are gathered at the inverter level - each inverter has multiple lines of solar panels attached to it. 
+- This data has been gathered at a solar power plant  in India over a 34 day period. The power generation dataset are gathered at the inverter level - each inverter has multiple lines of solar panels attached to it. 
   
 ## Data source: https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
 
