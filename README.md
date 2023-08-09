@@ -35,7 +35,7 @@
 
   ###descision tree tuned with gridsearch
 
-  ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/e9be5bb8-b115-470a-9dc7-52fcd30adbd3)
+  ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/a34c6f9a-29dc-4b18-88e8-25d03b2654d2)
 
   
   
