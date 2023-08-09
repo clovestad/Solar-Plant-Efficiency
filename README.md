@@ -38,6 +38,13 @@
   ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/8ca472ee-1d65-4d3f-827a-5e9336b883ab)
 
 
+
+# Model Selection
+
+- the model that will be selected is the descision tree turned with gridsearch(best parameters)
+- while it reflects the highest R2 score the true target is to discover and predict the need for preventative maintnience to Minimize plant downtime and production dips.
+  
+
   
   
 
