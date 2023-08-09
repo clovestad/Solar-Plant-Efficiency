@@ -30,7 +30,8 @@
 
  ###regression tree
  
-  ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/3f2eacd8-26e8-41bd-8efa-e4f383425581)
+  ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/3bded2e3-9bb2-4b6b-aa7b-2f7a38f60434)
+
 
   ###descision tree tuned with gridsearch
 
