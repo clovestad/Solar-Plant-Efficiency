@@ -20,7 +20,8 @@
   - ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/454f0b52-6171-4506-b12c-dc61b3484910)
   - the above plot relates a majority of the inverters maintaining and steady output of 7.25Kw on a montly total output with a few inverters indicating inefficiencies that COULD effect overall plant performance/generation and should be noted for maintnience or replacement.
  
-  - ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/65a0d9ca-fd13-47dc-a31e-bd4a1e3d0ac5)
+  - ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/60be384d-4cc3-4ca2-ab2a-2300d05f5bfa)
+
 
   - the above table relates that the peak production hours are undoubtably in the midle of the day, while the sun is at its highest point.
 
