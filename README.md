@@ -1,5 +1,8 @@
 # Solar plant Efficiency
 ## Colin Lovestad
+
+###stakeholder is small city council  considering allocation of funds to  start an off grid subdivision , with the question of  "how much power can be generated to support the subdivision and its network of buildings  and how reliable on a month to month basis will the generation be to gauge the need(if any) for alternative power sources(grid power)
+
 - Power production predictions to gauge duty cycle of plant components  to maintain peak efficiency.
 - This data has been gathered at a solar power plant  in India over a 34 day period. The power generation dataset are gathered at the inverter level - each inverter has multiple lines of solar panels attached to it. 
   
