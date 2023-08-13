@@ -17,11 +17,11 @@
 - Deleted null duplicate rows.
 - perform Feature engineering on datetime column to split into  better data fit for modeling.
 - Produced univariate visuals.
-- identify any outliers.
+- Identify any outliers.
 
   ## Exploratory Data Analysis
   - ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/454f0b52-6171-4506-b12c-dc61b3484910)
-  - the above plot relates a majority of the inverters maintaining and steady output of 7.25Kw on a montly total output with a few inverters indicating inefficiencies that COULD effect overall plant performance/generation and should be noted for maintnience or replacement.
+  - The above plot relates a majority of the inverters maintaining and steady output of 7.25Kw on a montly total output with a few inverters indicating inefficiencies that COULD effect overall plant performance/generation and should be noted for maintnience or replacement.
  
   - ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/60be384d-4cc3-4ca2-ab2a-2300d05f5bfa)
 
@@ -31,12 +31,12 @@
 
 ## Modeling
 
- ###regression tree
+ ### Regression Tree
  
   ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/3bded2e3-9bb2-4b6b-aa7b-2f7a38f60434)
 
 
-  ###descision tree tuned with gridsearch
+  ### Descision Tree tuned with gridsearch
 
   ![image](https://github.com/clovestad/Solar-Plant-Efficiency/assets/103072823/8ca472ee-1d65-4d3f-827a-5e9336b883ab)
 
@@ -44,8 +44,8 @@
 
 # Model Selection
 
-- the model that will be selected is the descision tree turned with gridsearch(best parameters)
-- while it reflects the highest R2 score the true target is to discover and predict the need for preventative maintnience to Minimize plant downtime and production dips.
+- The model that will be selected is the descision tree turned with gridsearch(best parameters).
+- While it reflects the highest R2 score the true target is to discover and predict the need for preventative maintnience to Minimize plant downtime and production dips.
   
 
   
